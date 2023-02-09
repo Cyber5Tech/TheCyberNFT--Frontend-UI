@@ -145,7 +145,7 @@ const App = () => {
         <div className="header-container">
           <p className="header gradient-text">Anime Lover</p>
           <p className="sub-text">
-            Each unique, Each beautiful, Discover your NFT today.
+            Each unique, Each popular, Discover your NFT today on the Goerli Testnet.
           </p>
           {currentAccount === "" ? renderNotConnectedContainer() : renderMintUI()}
           {opensea()}

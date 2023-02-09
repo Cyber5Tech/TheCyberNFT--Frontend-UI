@@ -1,5 +1,5 @@
 node_modules/
-build/
 .vscode/
+build/
 # Local Netlify folder
 .netlify
